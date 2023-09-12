@@ -1,0 +1,1 @@
+This is a project for an automatization testing course: https://stepik.org/course/575/
